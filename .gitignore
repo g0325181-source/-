@@ -1,0 +1,8 @@
+# Firebaseの秘密鍵（最重要）
+*.json
+
+# Pythonのキャッシュ
+__pycache__/
+
+# OS固有のファイル
+.DS_Store
